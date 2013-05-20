@@ -1,0 +1,8 @@
+<plugin>
+    <name>Tutorial</name>
+    <version>1.0</version>
+    <class>classes.tutorial</class>
+    <paths>
+        <path>//</path>
+    </paths>
+</plugin>
